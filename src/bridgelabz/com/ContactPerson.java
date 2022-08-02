@@ -1,6 +1,5 @@
 package bridgelabz.com;
 
-
 public class ContactPerson
 {
     private String firstName,lastName, city,state, email ;
