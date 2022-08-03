@@ -183,7 +183,20 @@
       <recent name="bridgelabz.com" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.bridgelabz.com.AddressBookSystem">
+  <component name="RunManager" selected="Application.AddressBook">
+    <configuration name="AddressBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bridgelabz.com.AddressBook" />
+      <module name="AddressBokkManagementSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bridgelabz.com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AddressBookMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AddressBookMain" />
       <module name="AddressBokkManagementSystem" />
@@ -206,6 +219,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AddressBook" />
         <item itemvalue="Application.bridgelabz.com.AddressBookSystem" />
         <item itemvalue="Application.AddressBookMain" />
       </list>
