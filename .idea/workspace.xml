@@ -10,6 +10,7 @@
       <change afterPath="$PROJECT_DIR$/../AddessBook/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../AddessBook/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../AddessBook/AddessBook.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day13ProblemsUsingGenerics/.idea/codeStyles/Project.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day13ProblemsUsingGenerics/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day13ProblemsUsingGenerics/.idea/misc.xml" afterDir="false" />
@@ -22,6 +23,19 @@
       <change afterPath="$PROJECT_DIR$/../Day13ProblemsUsingGenerics/src/bridgelabz/generic/com/FindTheMaxStrings.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day13ProblemsUsingGenerics/src/bridgelabz/generic/com/Refactor1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day13ProblemsUsingGenerics/src/bridgelabz/generic/com/Refactor2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day15HashTable/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day15HashTable/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day15HashTable/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day15HashTable/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day15HashTable/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day15HashTable/src/com/bridgelabz/HashTables/INode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day15HashTable/src/com/bridgelabz/HashTables/MyHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day15HashTable/src/com/bridgelabz/HashTables/MyHashMapTestCases.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day15HashTable/src/com/bridgelabz/HashTables/MyLinkedHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day15HashTable/src/com/bridgelabz/HashTables/MyLinkedHashMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day15HashTable/src/com/bridgelabz/HashTables/MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day15HashTable/src/com/bridgelabz/HashTables/MyMapNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day15HashTable/src/com/bridgelabz/HashTables/MyNode.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day3PracticeProblem/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day3PracticeProblem/.idea/codeStyles/Project.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day3PracticeProblem/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
@@ -95,6 +109,9 @@
       <change afterPath="$PROJECT_DIR$/../demo3/demo3.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../demo3/src/demo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bridgelabz/com/AddressBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bridgelabz/com/AddressBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bridgelabz/com/ContactPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bridgelabz/com/Contact.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Bridgelabz.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Day6Practiceproblem/ProgramsForJUnitTesting/MonthlyPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day6Practiceproblem/ProgramsForJUnitTesting/MonthlyPayment.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../EmployeeWagesCalculation/.idea/.gitignore" beforeDir="false" />
@@ -134,22 +151,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="bridgelabz.com" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AddressBookSystem">
+  <component name="RunManager" selected="Application.bridgelabz.com.AddressBookSystem">
     <configuration name="AddressBookMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AddressBookMain" />
       <module name="AddressBokkManagementSystem" />
@@ -157,7 +174,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AddressBookSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="bridgelabz.com.AddressBookSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bridgelabz.com.AddressBookSystem" />
       <module name="AddressBokkManagementSystem" />
       <extension name="coverage">
@@ -172,7 +189,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AddressBookSystem" />
+        <item itemvalue="Application.bridgelabz.com.AddressBookSystem" />
         <item itemvalue="Application.AddressBookMain" />
       </list>
     </recent_temporary>
@@ -203,7 +220,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/bridgelabz/com/ContactPerson.java</url>
+          <url>file://$PROJECT_DIR$/src/bridgelabz/com/Contact.java</url>
           <line>59</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
