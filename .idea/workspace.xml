@@ -10,8 +10,6 @@
       <change afterPath="$PROJECT_DIR$/../AddessBook/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../AddessBook/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../AddessBook/AddessBook.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bridgelabz/com/AddressBookMain.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day13ProblemsUsingGenerics/.idea/codeStyles/Project.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day13ProblemsUsingGenerics/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day13ProblemsUsingGenerics/.idea/misc.xml" afterDir="false" />
@@ -50,6 +48,7 @@
       <change afterPath="$PROJECT_DIR$/../Day16And17DataStructureAndAlgorithm/src/com/bridgelabz/BubbleSort.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day16And17DataStructureAndAlgorithm/src/com/bridgelabz/InsertionSort.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day16And17DataStructureAndAlgorithm/src/com/bridgelabz/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day19UserRegistrationRegex/Day19UserRegistrationRegex.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day3PracticeProblem/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day3PracticeProblem/.idea/codeStyles/Project.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day3PracticeProblem/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
@@ -64,6 +63,12 @@
       <change afterPath="$PROJECT_DIR$/../Day4Practiceproblem/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day4Practiceproblem/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day4Practiceproblem/Day4Practiceproblem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day5PracticeProblem/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day5PracticeProblem/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day5PracticeProblem/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day5PracticeProblem/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day5PracticeProblem/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day5PracticeProblem/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day8Practiceproblem/.idea/codeStyles/Project.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day8Practiceproblem/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day8Practiceproblem/.idea/misc.xml" afterDir="false" />
@@ -73,6 +78,14 @@
       <change afterPath="$PROJECT_DIR$/../Day8Practiceproblem/Day8Practiceproblem.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day8Practiceproblem/LineComparisonProblems.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Day8Practiceproblem/out/production/Day8Practiceproblem/Day8Practiceproblem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GamblingGame/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GamblingGame/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GamblingGame/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GamblingGame/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GamblingGame/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GamblingGame/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GamblingGame/GamblingGame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GamblingGame/src/com/bridgelabz/gambling/GamblingStimulation.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MoodAnalyser/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MoodAnalyser/.idea/codeStyles/Project.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../MoodAnalyser/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
@@ -94,6 +107,8 @@
       <change afterPath="$PROJECT_DIR$/../Stack/Stack.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Stack/src/Stack" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Stack/src/StackOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TicTacToe/TicTacToe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TicTacToe/src/com/bridgelabz/TicTacToe.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../UserRegistrationProblem/.idea/codeStyles/Project.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../UserRegistrationProblem/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../UserRegistrationProblem/.idea/compiler.xml" afterDir="false" />
@@ -105,6 +120,25 @@
       <change afterPath="$PROJECT_DIR$/../UserRegistrationProblem/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../UserRegistrationProblem/src/main/java/org/example/UserRegistrationFormat.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../UserRegistrationProblem/src/test/java/org/example/UserRegistrationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workshop/Workshop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Workshop/src/reverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkshopAddress/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkshopAddress/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkshopAddress/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkshopAddress/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkshopAddress/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkshopAddress/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkshopAddress/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkshopAddress/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkshopAddress/src/main/java/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkshopAddress/src/main/java/org/example/HomePage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkshopAddress/src/main/java/org/example/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkshopAddress/src/main/java/org/example/WicketApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkshopAddress/src/main/java/org/example/addressbook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkshopAddress/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkshopAddress/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkshopAddress/src/test/java/org/example/TestHomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WorkshopAddress/src/test/java/org/example/Validate.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../day14LinkListStackAndQueue/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../day14LinkListStackAndQueue/.idea/codeStyles/Project.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../day14LinkListStackAndQueue/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
@@ -124,9 +158,7 @@
       <change afterPath="$PROJECT_DIR$/../demo3/src/demo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AddressBookMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/AddressBookMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/bridgelabz/com/AddressBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bridgelabz/com/AddressBook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bridgelabz/com/AddressBookSystem.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/bridgelabz/com/BookList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bridgelabz/com/BookList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Bridgelabz.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Day6Practiceproblem/ProgramsForJUnitTesting/MonthlyPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day6Practiceproblem/ProgramsForJUnitTesting/MonthlyPayment.java" afterDir="false" />
@@ -167,17 +199,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Bridgelabz/AddressBokkManagementSystem",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Bridgelabz/AddressBokkManagementSystem&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="bridgelabz.com" />
